@@ -16,7 +16,6 @@ original is never modified and keeps updating as usual.
 | [ShaguDPSOpacity](https://github.com/daev-code/ShaguDPSOpacity) | Fades ShaguDPS windows out of combat | [ShaguDPS](https://github.com/shagu/ShaguDPS) |
 | [BagshuiEmptyBag](https://github.com/daev-code/BagshuiEmptyBag) | Empties a bag into your other bags, or compacts them | [Bagshui](https://github.com/absir/Bagshui) |
 | [BagshuiTooltipFix](https://github.com/daev-code/BagshuiTooltipFix) | Stops item tooltips jumping between two items | [Bagshui](https://github.com/absir/Bagshui) |
-| [_OWThreatFix](https://github.com/daev-code/_OWThreatFix) | Keeps the window where you left it, makes it resizable, and a few smaller fixes | [OWThreat](https://github.com/roby-brok/OWThreat) |
 
 ## Feedback
 
