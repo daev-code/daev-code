@@ -1,7 +1,12 @@
 # daev-code
 
-Small addons for WoW 1.12 that fix or extend other people's addons. Each one is a separate
-addon, so the original is never modified and keeps updating as usual.
+Things I build in my spare time, mostly small tools and fixes for software I use. Each
+project lives in its own repo with its own install instructions.
+
+## WoW 1.12 addons
+
+Small addons that fix or extend other people's addons. Each one is a separate addon, so the
+original is never modified and keeps updating as usual.
 
 | Addon | What it does | Extends |
 |---|---|---|
@@ -13,4 +18,6 @@ addon, so the original is never modified and keeps updating as usual.
 | [BagshuiTooltipFix](https://github.com/daev-code/BagshuiTooltipFix) | Stops item tooltips jumping between two items | [Bagshui](https://github.com/absir/Bagshui) |
 | [_OWThreatFix](https://github.com/daev-code/_OWThreatFix) | Keeps the window where you left it, makes it resizable, and a few smaller fixes | [OWThreat](https://github.com/roby-brok/OWThreat) |
 
-Found a bug or want something changed? Open an issue or a pull request on that addon's repo.
+## Feedback
+
+Found a bug or want something changed? Open an issue or a pull request on that project's repo.
