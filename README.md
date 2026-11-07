@@ -17,6 +17,15 @@ original is never modified and keeps updating as usual.
 | [BagshuiEmptyBag](https://github.com/daev-code/BagshuiEmptyBag) | Empties a bag into your other bags, or compacts them | [Bagshui](https://github.com/absir/Bagshui) |
 | [BagshuiTooltipFix](https://github.com/daev-code/BagshuiTooltipFix) | Stops item tooltips jumping between two items | [Bagshui](https://github.com/absir/Bagshui) |
 
+## WoW 1.12 client DLLs
+
+DLLs that the client loads at startup through `dlls.txt`. They change how the client runs,
+not the game itself.
+
+| DLL | What it does |
+|---|---|
+| [SVWriteBuffer](https://github.com/daev-code/SVWriteBuffer) | Makes `/reload` and logout faster by saving each addon's SavedVariables in one write |
+
 ## Feedback
 
 Found a bug or want something changed? Open an issue or a pull request on that project's repo.
