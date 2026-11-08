@@ -10,7 +10,7 @@ original is never modified and keeps updating as usual.
 
 | Addon | What it does | Extends |
 |---|---|---|
-| [PallyPowerNext](https://github.com/daev-code/PallyPowerNext) | A button that casts whichever PallyPower blessing is missing next | [PallyPowerTW](https://github.com/ShikawaLePaladin/PallyPowerTW) |
+| [PallyPowerNext](https://github.com/daev-code/PallyPowerNext) | A button that casts whichever PallyPower blessing is missing next | [PallyPowerTW](https://github.com/ShikawaLePaladin/PallyPowerTW) or [Aegis: RallyPower](https://github.com/Torchlite-bit/Aegis_RallyPower) |
 | [pfUIBarOpacity](https://github.com/daev-code/pfUIBarOpacity) | Fades pfUI's action bars out of combat, per bar | [pfUI](https://github.com/brues-code/pfUI) |
 | [RinseCombatOpacity](https://github.com/daev-code/RinseCombatOpacity) | Gives Rinse a separate opacity for combat | [Rinse](https://github.com/Otari98/Rinse) |
 | [ShaguDPSOpacity](https://github.com/daev-code/ShaguDPSOpacity) | Fades ShaguDPS windows out of combat | [ShaguDPS](https://github.com/shagu/ShaguDPS) |
